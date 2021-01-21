@@ -79,3 +79,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#packaged game folder
+WindowsNoEditor/*
+
+#Starter Content
+Content/StarterContent/*
